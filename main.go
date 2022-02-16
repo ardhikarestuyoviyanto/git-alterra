@@ -10,3 +10,7 @@ func main() {
 func sumtwonumbers(x int, y int) int {
 	return x + y
 }
+
+func subtractiontwonumber(x int, y int) int {
+	return x * y
+}
